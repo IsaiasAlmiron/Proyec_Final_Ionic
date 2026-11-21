@@ -4,6 +4,7 @@
 
 export const environment = {
   production: false,
+  apiUrl: 'https://open.er-api.com/v6'
 };
 
 /*
